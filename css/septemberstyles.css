@@ -22,3 +22,11 @@ h1 {
 
 
 }
+
+.menuLink{
+
+	 width: 30%;
+	 float:left;
+	 background-color: black;
+	 color: white;
+}
